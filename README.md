@@ -1,6 +1,4 @@
-![ Swift Developer-5](https://github.com/user-attachments/assets/46b29afa-0b65-4356-baef-d5b4e987a667)
-
-
+![ Swift Developer-5](https://github.com/user-attachments/assets/441a1025-cd0e-428d-a664-b8b9c64002d5)
 # 👋 ¡Hola! Soy Yeray Castro Jiménez
 ### Desarrollador iOS Junior | Apasionado por Swift y SwiftUI | Explorando el futuro del desarrollo en el ecosistema Apple
 
