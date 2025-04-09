@@ -32,13 +32,25 @@ Soy un apasionado desarrollador de aplicaciones iOS, con un firme compromiso hac
 - **Asincronía**: Async/Await
 - **Control de Versiones**: Git
 
-### 📂 Proyectos Destacados
-- **[BigBangOS](https://github.com/YerayCastro/BigBangOS)**: Aplicación de consulta de todos los episodios de la serie *Big Bang Theory* para visionOS.
-- **[Employees](https://github.com/YerayCastro/Employees)**: Aplicación para la gestión de empleados, desarrollada con Swift y SwiftUI.
-- **[iBooks](https://github.com/YerayCastro/iBooks)**: Aplicación de consultas de libros utilizando SwiftData.
-- **[Trantor](https://github.com/YerayCastro/Trantor)**: Aplicación que simula una librería, construida con Swift.
-- **[YeryLibrary](https://github.com/YerayCastro/YeryLibrary)**: Aplicación para consultas de libros, basada en Swift.
-- **[FaceFacts](https://github.com/YerayCastro/FaceFacts)**: Aplicación de gestión de personas y eventos, implementada con SwiftData.
+## Proyectos Destacados
+
+### [TotalMovies](https://github.com/YerayCastro/TotalMovies)
+**TotalMovies** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada íntegramente en **SwiftUI**. Consume la API de **The Movie Database (TMDB)** mediante **async/await**, mostrando películas populares, detalles y gestión de favoritos. Usa arquitectura propia, sin librerías externas, y aplica prácticas modernas del ecosistema Apple.
+
+### [MarvelTotal](https://github.com/YerayCastro/MarvelTotal)
+**MarvelTotal** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada íntegramente en **SwiftUI**. Consume la API oficial de **Marvel** usando **async/await** para mostrar personajes, cómics y sus detalles. Implementa una arquitectura propia, sin librerías externas, y sigue prácticas modernas del desarrollo en entornos Apple.
+
+### [BigBangTheory](https://github.com/YerayCastro/BigBangTheory)
+**BigBangTheory** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada íntegramente en **SwiftUI**. Muestra información de personajes y episodios de la serie, con datos gestionados localmente. Implementa una arquitectura propia, sin librerías externas, siguiendo las prácticas modernas del desarrollo en entornos Apple.
+
+### [Trantor](https://github.com/YerayCastro/Trantor)
+**Trantor** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada íntegramente en **SwiftUI**. Gestiona y organiza mangas consumiendo datos de una API externa mediante **async/await**, y persiste la información localmente usando **SwiftData**. Utiliza una arquitectura propia, sin librerías de terceros, con un diseño moderno y eficiente para el ecosistema Apple.
+
+### [BigBanOS](https://github.com/YerayCastro/BigBanOS)
+**BigBanOS** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada en **SwiftUI**, diseñada específicamente para **visionOS**. Presenta personajes, episodios y curiosidades de *The Big Bang Theory*, con datos gestionados localmente. Utiliza una arquitectura propia, sin librerías externas, y aprovecha las capacidades espaciales del entorno **Apple Vision Pro**.
+
+### [Employees](https://github.com/YerayCastro/Employees)
+**Employees** es una aplicación nativa creada en **Xcode** con **Swift 5.9** y desarrollada en **SwiftUI**. Permite gestionar y organizar la información de empleados. Utiliza **SwiftData** para la persistencia local de datos y ofrece una interfaz intuitiva para añadir, editar y eliminar empleados. La app sigue una arquitectura propia, sin librerías externas, y se enfoca en un diseño limpio y eficiente.
 
 ### 🌐 Contacto
 - **LinkedIn**: [Yeray Castro Jiménez](https://www.linkedin.com/in/yeray-castro-jimenez/)
