@@ -1,17 +1,24 @@
-![ Swift Developer](https://github.com/user-attachments/assets/441a1025-cd0e-428d-a664-b8b9c64002d5)
+<img width="1244" height="500" alt=" Swift Developer-5" src="https://github.com/user-attachments/assets/806e636f-d6e4-41dc-a0d1-833d009dfb14" />
+
 
 # 👋 ¡Hola! Soy Yeray Castro Jiménez  
 ### Desarrollador iOS | Especializado en Swift y SwiftUI | Enfocado en aplicaciones nativas modernas
 
-Soy desarrollador iOS con un enfoque claro en la creación de aplicaciones nativas modernas, eficientes y escalables, diseñadas para ofrecer la mejor experiencia al usuario y aportar valor real al negocio. Trabajo exclusivamente con tecnologías del ecosistema Apple, optimizando cada recurso para garantizar **rendimiento, estabilidad y mantenimiento a largo plazo**.
-
 ---
 
-### 🚀 Sobre mí
-- 🛠 **Código limpio y moderno**: Desarrollo aplicaciones en **Swift** y **SwiftUI**, implementando soluciones nativas sin dependencias externas.
-- 🔄 **Asincronía optimizada**: Uso intensivo de `async/await` para garantizar operaciones fluidas y no bloqueantes.
-- 💾 **Persistencia nativa**: Implemento **SwiftData** y `Codable` para asegurar integridad, escalabilidad y rendimiento en el manejo de datos.
-- ⚡ **Últimas tecnologías**: Trabajo con las APIs más recientes de Apple para garantizar compatibilidad y aprovechar todas sus capacidades.
+## 🧑‍💻 Sobre mí
+Soy **desarrollador iOS especializado en entornos Apple**, con un enfoque claro en la creación de **aplicaciones nativas modernas, eficientes y orientadas a generar valor real para el negocio**. Mi objetivo es **transformar ideas en productos digitales robustos**, con un diseño cuidado y una **experiencia de usuario diferencial**.
+
+Trabajo con las **tecnologías más avanzadas del ecosistema Apple**, aprovechando cada recurso para garantizar **rendimiento, estabilidad y escalabilidad**:
+- **Swift** como base para un código limpio, seguro y mantenible.
+- **SwiftUI** para interfaces fluidas, adaptativas y compatibles con las últimas versiones de iOS, reduciendo el tiempo de desarrollo sin sacrificar calidad.
+- **SwiftData** para persistencia nativa, eliminando complejidades y asegurando integridad de la información.
+- **Codable** para serialización de datos segura y optimizada.
+- **async/await** para una gestión asíncrona eficiente, evitando bloqueos y mejorando la experiencia incluso en escenarios de alta carga.
+
+Creo firmemente en **arquitecturas limpias y escalables**, evitando dependencias externas para garantizar aplicaciones sostenibles, fáciles de mantener y libres de deuda técnica. Esta filosofía reduce costes, acelera la evolución del producto y lo mantiene competitivo.
+
+Mi compromiso es desarrollar **soluciones que aporten valor real**: aplicaciones **rápidas, seguras y preparadas para crecer**, diseñadas para ofrecer la **mejor experiencia posible al usuario final**.
 
 ---
 
@@ -79,3 +86,12 @@ Soy desarrollador iOS con un enfoque claro en la creación de aplicaciones nativ
 
 📈 **Siempre en busca de nuevos retos en el desarrollo iOS, creando soluciones rápidas, seguras y escalables que marquen la diferencia.**
 
+---
+
+### 📊 Métricas de GitHub
+
+![Profile Views](https://komarev.com/ghpvc/?username=YerayCastro&color=blue&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/YerayCastro?label=Followers&style=flat&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YerayCastro&layout=compact&theme=swift)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YerayCastro&show_icons=true&theme=swift)
