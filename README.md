@@ -1,4 +1,4 @@
-<img width="1244" height="500" alt=" Swift Developer-5" src="https://github.com/user-attachments/assets/806e636f-d6e4-41dc-a0d1-833d009dfb14" />
+<img width="1244" height="300" alt=" Swift Developer-5" src="https://github.com/user-attachments/assets/806e636f-d6e4-41dc-a0d1-833d009dfb14" />
 
 
 # 👋 ¡Hola! Soy Yeray Castro Jiménez  
@@ -60,20 +60,20 @@ Mi compromiso es desarrollar **soluciones que aporten valor real**: aplicaciones
 
 ## 📌 Proyectos Destacados
 
+- **[iMangas](https://github.com/YerayCastro/iMangas)**  
+  Aplicación nativa desarrollada al más puro estilo **Apple**, creada con **Swift**, **SwiftUI** y **SwiftData** para gestionar una colección completa de mangas. Implementa concurrencia moderna con **async/await** para realizar peticiones a la API de mangas y utiliza el nuevo **WebKit** para navegación web integrada. Su diseño modular y eficiente prioriza rendimiento, claridad funcional y experiencia de usuario premium.
+
+- **[WatchAll](https://github.com/YerayCastro/WatchAll)**  
+  Aplicación nativa desarrollada con **Swift** y **SwiftUI** que permite **gestionar películas y series de televisión** con un diseño moderno y minimalista al más puro estilo **Apple**. La aplicación implementa un consumo eficiente de servicios remotos utilizando **`async/await`** para peticiones a la API, garantizando rendimiento y claridad en el flujo asíncrono.
+  
 - **[RickAndMortyTotal](https://github.com/YerayCastro/RickAndMortyTotal)**  
   Aplicación desarrollada en **SwiftUI** que permite explorar toda la información de la serie **Rick and Morty** mediante la API oficial. Implementa llamadas nativas `async/await` para recuperar datos de personajes, localizaciones y episodios, presentándolos de forma organizada y detallada.
-
-- **[MangasLibrary](https://github.com/YerayCastro/MangasLibrary)**  
-  Aplicación desarrollada en **SwiftUI** para la gestión completa de colecciones de mangas. Permite explorar, editar, filtrar y mantener un seguimiento detallado de los mangas, incluyendo favoritos y los más valorados, con una arquitectura limpia y eficiente.
 
 - **[Employees](https://github.com/YerayCastro/Employees)**  
   Aplicación de gestión de empleados desarrollada en **SwiftUI**, utilizando persistencia local con **Codable**. Permite añadir, buscar, editar y organizar empleados mediante una interfaz moderna, garantizando un flujo rápido y eficiente sin librerías externas.
 
 - **[MyGarden](https://github.com/YerayCastro/MyGarden)**  
   Aplicación desarrollada en **SwiftUI** para la gestión de un huerto de forma sencilla e intuitiva. Incluye funcionalidades para organizar vegetales, controlar plagas y registrar el crecimiento del jardín con un diseño limpio y atractivo.
-
-- **[iScores](https://github.com/YerayCastro/iScores)**  
-  Aplicación creada en **SwiftUI** para gestionar bandas sonoras de películas. Permite visualizar y editar información sobre compositores, portadas y pistas, con un enfoque en la simplicidad y la eficiencia.
 
 ---
 
