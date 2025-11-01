@@ -1,4 +1,5 @@
-<img width="1244" height="300" alt=" Swift Developer-5" src="https://github.com/user-attachments/assets/806e636f-d6e4-41dc-a0d1-833d009dfb14" />
+<img width="1244" height="300" alt="bannerLinkedin" src="https://github.com/user-attachments/assets/e0a007ec-eaec-4e1c-bc64-75bc8bac4103" />
+
 
 
 # 👋 ¡Hola! Soy Yeray Castro Jiménez  
