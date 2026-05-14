@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1244" height="300" alt="iOS Developer Banner" src="https://github.com/user-attachments/assets/4a4cba33-e90c-4ad0-b9d3-6793db15800c" />
+<img width="1244" height="300" alt="iOS Developer Banner" src="https://github.com/user-attachments/assets/6eed3eed-e96a-4eb9-8dcd-4bd797727050" />
 
 # Yeray Castro Jiménez
 ### iOS Developer · Swift · SwiftUI · SwiftData · async/await
