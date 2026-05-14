@@ -28,7 +28,7 @@ iOS developer specializing in the Apple ecosystem. I build native apps with Swif
 - **Codable** for serialization — type-safe, JSONSerialization out of my workflow
 - **Zero third-party libraries** — if Apple ships it, I use it; if not, I build it
 
-Trained at **Apple Coding Academy** (Swift Developer Program 2023). Currently completing my CFGS in Multiplatform App Development at ILERNA.
+Trained at **Apple Coding Academy** (Swift Developer Program 2023). 
 
 Looking for my first role in a company where I can contribute from day one and grow within a technically solid team.
 
