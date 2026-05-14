@@ -122,18 +122,6 @@ Garden and vegetable patch tracker. Manage crops, monitor pest control, and log 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YerayCastro&show_icons=true&theme=swift&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800)](https://github.com/YerayCastro)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YerayCastro&layout=compact&theme=swift&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/YerayCastro)
-
-</div>
-
----
-
 <div align="center">
 
 **Looking for my first iOS developer position.**<br>
