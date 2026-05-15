@@ -56,7 +56,7 @@ Busco mi primer rol en una empresa donde pueda aportar desde el primer día y cr
 
 <div align="center">
 
-### [Mangora — Gestor de Biblioteca de Manga](https://apps.apple.com/app/id6767626728)
+### [Mangora](https://apps.apple.com/app/id6767626728)
 
 [![Descargar en el App Store](https://img.shields.io/badge/Descargar_en_el-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6767626728)
 
