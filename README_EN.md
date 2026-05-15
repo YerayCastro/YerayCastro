@@ -56,7 +56,7 @@ Looking for my first role in a company where I can contribute from day one and g
 
 <div align="center">
 
-### [Mangora — Manga Library Manager](https://apps.apple.com/app/id6767626728)
+### [Mangora](https://apps.apple.com/app/id6767626728)
 
 [![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6767626728)
 
