@@ -114,7 +114,6 @@ Garden and vegetable patch tracker. Manage crops, monitor pest control, and log 
 |---|---|---|
 | iOS 17, SwiftUI 5 & Swift 5.9: Build iOS Apps From Scratch | Udemy | 2023 |
 | Deep Dive iOS Swift / SwiftUI Programming | Udemy | 2023 |
-| iOS 16 Online Game, SwiftUI & MVVM | Udemy | 2023 |
 | Let's Build Uber with SwiftUI — iOS App Clone | Udemy | 2023 |
 
 ---
