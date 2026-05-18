@@ -92,13 +92,6 @@ Explorador del universo Rick and Morty a través de su API oficial. Personajes, 
 
 ---
 
-### [Employees](https://github.com/YerayCastro/Employees)
-App de gestión de empleados con CRUD completo y persistencia local via Codable — sin frameworks externos. Búsqueda y filtrado nativos. Demuestra una gestión de datos limpia sin dependencias de terceros.
-
-`Swift` · `SwiftUI` · `Codable` · `MVVM`
-
----
-
 ### [MyGarden](https://github.com/YerayCastro/MyGarden)
 Tracker de jardín y huerto. Gestiona cultivos, controla plagas y registra el crecimiento de las plantas — todo a través de una interfaz SwiftUI intuitiva respaldada por SwiftData para persistencia local.
 
