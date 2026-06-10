@@ -56,6 +56,20 @@ Looking for my first role in a company where I can contribute from day one and g
 
 <div align="center">
 
+### [Lumexia](https://apps.apple.com/app/id6771335712)
+
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6771335712)
+
+</div>
+
+Native book library manager for iPhone. Browse catalogues, organize your collection by status — Favorites and Read — with a full technical sheet per book: author, year, pages, ISBN, price and rating. Reviewed and approved by Apple.
+
+`Swift` · `SwiftUI` · `SwiftData` · `async/await` · `Codable` · `MVVM`
+
+---
+
+<div align="center">
+
 ### [Mangora](https://apps.apple.com/app/id6767626728)
 
 [![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6767626728)
