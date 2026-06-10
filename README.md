@@ -56,6 +56,20 @@ Busco mi primer rol en una empresa donde pueda aportar desde el primer día y cr
 
 <div align="center">
 
+### [Lumexia](https://apps.apple.com/app/id6771335712)
+
+[![Descargar en el App Store](https://img.shields.io/badge/Descargar_en_el-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6771335712)
+
+</div>
+
+Gestor nativo de biblioteca de libros para iPhone. Explora catálogos, organiza tu colección por estado — Favoritos y Leídos — con ficha técnica completa por libro: autor, año, páginas, ISBN, precio y valoración. Revisada y aprobada por Apple.
+
+`Swift` · `SwiftUI` · `SwiftData` · `async/await` · `Codable` · `MVVM`
+
+---
+
+<div align="center">
+
 ### [Mangora](https://apps.apple.com/app/id6767626728)
 
 [![Descargar en el App Store](https://img.shields.io/badge/Descargar_en_el-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6767626728)
